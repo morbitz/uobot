@@ -1,0 +1,1 @@
+void Process_PRIVMSG(char *ChanName, char *NickName, char *Texto);
